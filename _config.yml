@@ -26,6 +26,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-last-modified-at
 
 # Custom variables
 owner : "Fred Lins"
