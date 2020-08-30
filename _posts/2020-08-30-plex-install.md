@@ -1,9 +1,10 @@
 ---
 title: Instalação do Plex-Media-Server no Arch Linux e Derivados
 published: true
+related_image: /assets/plex-install/banner-plex.png
 ---
 
-![My helpful screenshot](/assets/plex-install/banner-plex.png)
+![Banner - Arch Linux - Plex](/assets/plex-install/banner-plex.png)
 
 # Índice
 
