@@ -1,10 +1,17 @@
 ---
 title: Instalação do Plex-Media-Server no Arch Linux e Derivados
 published: true
-related_image: /assets/plex-install/banner-plex.png
+tags:
+- Arch Linux
+- Linux
+- Manjaro
+- Plex Media Server
+- EndeavourOS
+
+image: /assets/plex-install/banner-plex.png
+
 ---
 
-![Banner - Arch Linux - Plex](/assets/plex-install/banner-plex.png)
 
 # Índice
 
@@ -65,5 +72,3 @@ $ sudo ufw allow plexmediaserver-all
 Aponte o seu browser para [http://localhost:32400/](http://localhost:32400/)
 
 Pronto, está instalado. 
-
-
