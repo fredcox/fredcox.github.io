@@ -4,7 +4,7 @@ layout: default
 
 <article>
   <h2>{{ page.title }}</h2>
-  <time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}  Last modified: {{ page.last_modified_at }}</time>
+  <time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
   {{ content }}
 </article>
 
