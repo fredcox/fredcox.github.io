@@ -8,7 +8,7 @@ tags:
 - Plex Media Server
 - EndeavourOS
 
-image: /assets/plex-install/banner-small.png
+image: /assets/plex-install/banner-plex.png
 
 ---
 
