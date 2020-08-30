@@ -14,8 +14,6 @@ image: /assets/plex-install/banner-small.png
 
 ![banner-plex](/assets/plex-install/banner-plex.png)
 
-# Introdução
-
 Nesse artigo iremos instalar o [plex-media-server](https://www.plex.tv/pt-br/media-server-downloads/) no 
 [Arch Linux](https://www.archlinux.org/). Vale ressaltar que o procedimento descrito nesse documento também é 
 compatível com distribuições baseadas no [Arch Linux](https://www.archlinux.org/), tais como 
