@@ -12,10 +12,6 @@ image: /assets/plex-install/banner-plex.png
 
 ---
 
-
-# Índice
-
-
 # Introdução
 
 Nesse artigo iremos instalar o [plex-media-server](https://www.plex.tv/pt-br/media-server-downloads/) no 
