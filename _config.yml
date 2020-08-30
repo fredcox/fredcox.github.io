@@ -1,9 +1,9 @@
 title: Hacker-Blog
-description: "A Jekyll Blog Theme For Hackers"
+description: "Um blog para Entusiastas de Software Livre"
 author:
-  name: "SomeHacker"
-  email: "someone@somewebsite.somedomain"
-  url: "https://ashishchaudhary.in/hacker-blog"
+  name: "Fred Lins"
+  email: "fredcox@gmail.com"
+  url: "https://fredcox.github.io"
 
 baseurl: /
 
@@ -28,5 +28,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "SomeHacker"
+owner : "Fred Lins"
 year : "2020"
