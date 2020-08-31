@@ -57,8 +57,6 @@ pelo **Python Package Manager - PIP**.
 
 ## Instalação no Ubuntu e Derivados   
 
-### Dependências
-
 ```shell
 $ sudo apt update
 $ sudo apt install fio python3-pip libxcb-xinerama0
