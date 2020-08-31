@@ -34,6 +34,13 @@ Depois da instalação, execute [crazydiskmark](https://pypi.org/project/crazydi
 criado no menu principal de seu **desktop environment (kde, gnome,cinnamon, mate, etc).** A partir daí, você pode continuar 
 executando a aplicação com apenas um click nesse lançador.
 
+- **IMPORTANTE**: Coloque o caminho **$HOME/.local/bin** na sua variável de ambiente **$PATH**, para isso, edite o arquivo
+$HOME/.bashrc e inclua a seguinte alteração:
+
+```shell
+export PATH=$PATH:$HOME/.local/bin
+```
+
 ## Arch Linux e Derivados
 
 Se você trabalha com **[Arch Linux](https://www.archlinux.org/)** ou qualquer outra distro derivada, tal qual 
@@ -45,48 +52,26 @@ $ yay -S crazydiskmark
 $ crazydiskmark 
 ```
 
-## Ubuntu e Derivados   
+[Crazy DiskMark](https://pypi.org/project/crazydiskmark/) também está disponível para instalação em qualquer distribuições Linux
+pelo **Python Package Manager - PIP**.
+
+## Instalação no Ubuntu e Derivados   
 
 ### Dependências
-
-[Crazy DiskMark](https://pypi.org/project/crazydiskmark/) está disponível para instalação em qualquer distribuições Linux
-pelo **Python Package Manager - PIP**. 
-
-Instale as dependências com os seguintes comandos:
-
-- **[fio - Flexible I/O tester](https://fio.readthedocs.io/en/latest/fio_doc.html)**, **[Python 3 Package 
-Manager - PIP](https://pypi.org/)** e **libxcb-xinerama**:
 
 ```shell
 $ sudo apt update
 $ sudo apt install fio python3-pip libxcb-xinerama0
-```
-
-### Instale o Crazy DiskMark
-
-```shell
 $ pip3 install crazydiskmark
+$ crazydiskmark
 ```
 
-## Fedora
+## Instalação no Fedora
 
 ```shell
 $ sudo dnf update
 $ sudo dnf install fio
 $ pip3 install crazydiskmark --user
-```
-
-
-- Coloque o caminho **$HOME/.local/bin** na sua variável de ambiente **$PATH**, para isso, edite o arquivo
-$HOME/.bashrc e inclua a seguinte alteração:
-
-```shell
-export PATH=$PATH:$HOME/.local/bin
-```
-
-# Rode o **Crazy DiskMark**:
-
-```shell
 $ crazydiskmark
 ```
 
