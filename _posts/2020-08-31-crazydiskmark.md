@@ -81,6 +81,17 @@ export PATH=$PATH:$HOME/.local/bin
 $ crazydiskmark
 ```
 
+
+## Fedora
+
+```shell
+$ sudo dnf update
+$ sudo dnf install fio
+$ pip3 install crazydiskmark --user
+```
+
+# Conclusão
+
 Para efetuar benchmark em um disco específico, selecione o diretório onde a que corresponde à partição e ponto de montagem
 do device. 
 
