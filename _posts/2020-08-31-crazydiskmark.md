@@ -68,6 +68,15 @@ $ sudo apt install fio python3-pip libxcb-xinerama0
 $ pip3 install crazydiskmark
 ```
 
+## Fedora
+
+```shell
+$ sudo dnf update
+$ sudo dnf install fio
+$ pip3 install crazydiskmark --user
+```
+
+
 - Coloque o caminho **$HOME/.local/bin** na sua variável de ambiente **$PATH**, para isso, edite o arquivo
 $HOME/.bashrc e inclua a seguinte alteração:
 
@@ -75,19 +84,10 @@ $HOME/.bashrc e inclua a seguinte alteração:
 export PATH=$PATH:$HOME/.local/bin
 ```
 
-- Rode o **Crazy DiskMark**:
+# Rode o **Crazy DiskMark**:
 
 ```shell
 $ crazydiskmark
-```
-
-
-## Fedora
-
-```shell
-$ sudo dnf update
-$ sudo dnf install fio
-$ pip3 install crazydiskmark --user
 ```
 
 # Conclusão
