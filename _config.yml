@@ -27,6 +27,9 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
+
+google_analytics: "UA-176984684-1"
+
 # Custom variables
 owner : "Fred Lins"
 year : "2020"
