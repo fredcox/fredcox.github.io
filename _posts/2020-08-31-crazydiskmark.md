@@ -36,7 +36,7 @@ o [Crazy DiskMark](https://github.com/fredcox/crazydiskmark/) em HD´s mecânico
 distros relacionadas ([MxLinux](https://mxlinux.org/), [PopOS](https://pop.system76.com/), [Linux Mint](https://linuxmint.com/), etc)
 3. [Fedora32](https://getfedora.org/pt_BR/).   
 
-# Instalação no Arch Linux e Derivados (Manjaro)
+# [Arch Linux](https://www.archlinux.org/) e derivados (Manjaro, EndeavourOS)
 
 Se você trabalha com **[Arch Linux](https://www.archlinux.org/)** ou qualquer outra distro derivada, tal qual 
 **[Manjaro](https://manjaro.org/)**, o pacote **crazydiskmark** está disponível para instalação pelo 
