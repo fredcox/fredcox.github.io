@@ -55,7 +55,7 @@ $ sudo apt update
 $ sudo apt install crazydiskmark
 ```
 
-# [Fedora32](https://getfedora.org/pt_BR/).
+# [Fedora32](https://getfedora.org/pt_BR/)
 
 ```bash
 $ sudo dnf copr enable fredcox/crazydiskmark
@@ -65,8 +65,8 @@ $ sudo dnf install crazydiskmark
 
 # Conclusão
 
-Para efetuar benchmark em um disco específico, selecione o diretório onde a que corresponde à partição e ponto de montagem
-do device. 
+Para efetuar benchmark em um disco específico, selecione o diretório correspondente à **partição ou ponto de montagem**
+do device a qual deseja-se aferir o desempenho. 
 
 É isso, espero ter ajudado.
   
