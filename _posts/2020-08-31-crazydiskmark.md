@@ -47,8 +47,7 @@ $ yay -S crazydiskmark
 $ crazydiskmark 
 ```
 
-# [Ubuntu](https://ubuntu.com/), [Debian](https://www.debian.org/index.pt.html) e 
-distros relacionadas ([MxLinux](https://mxlinux.org/), [PopOS](https://pop.system76.com/), [Linux Mint](https://linuxmint.com/), etc)
+# [Ubuntu](https://ubuntu.com/), [Debian](https://www.debian.org/index.pt.html) e distros relacionadas ([MxLinux](https://mxlinux.org/), [PopOS](https://pop.system76.com/), [Linux Mint](https://linuxmint.com/), etc)
 
 ```bash
 $ sudo add-apt-repository ppa:fredcox-p/crazydiskmark
