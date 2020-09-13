@@ -1,5 +1,5 @@
 ---
-title: GonhaNG - Monitor de Sistema para Linux
+title: GonhaNG - Um Monitor de Sistema para Linux
 published: true
 tags:
 - Arch Linux
