@@ -110,8 +110,8 @@ Copie e guarde a sua chave API, você precisará dela logo em seguida.
  
 ## Obtendo Coordenadas Geográficas
 
-Acesse o site [https://www.latlong.net/](https://www.latlong.net/), digite o nome da sua cidade e pressione o botão
-"Find", por exemplo:
+Acesse o site [https://www.latlong.net/](https://www.latlong.net/), digite o **nome** da sua cidade e pressione o botão
+**"Find"**, por exemplo:
 
 ![latlonfind.png ](/assets/gonhang/latlonfind.png )
 
@@ -119,7 +119,7 @@ Copie e cole no [GonhaNG](https://github.com/fredcox/gonhang) os valores obtidos
 Preencha também o campo **"Api Key"** com a sua chave Api obtida anteriormente no **Open Weather**. Depois de preencher o 
 formulário com todas as informações, clique no **"botão Validate"**
 
-![latlonfind.png ](/assets/gonhang/latlonfind.png )
+![latlonfind.png ](/assets/gonhang/weather.png )
 
 Se você digitou as informações corretamente, aparecerá uma mensagem de status avisando que o processo foi validado 
 A partir deste momento já se pode observar que as informações climáticas estão sendo mostradas pelo 
