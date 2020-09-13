@@ -127,12 +127,7 @@ A partir deste momento já se pode observar que as informações climáticas est
 
  >Se ao final do processo deu erro 404, então você precisa digitar latitude, longitude e chave api corretamente, uma vez que,
 colocando as informações erradas, é impossível de validar.
-   
  
-
-
-
-
 # hddtemp
 
 ![hddtemp](/assets/gonhang/hddtemp.png)
@@ -173,3 +168,6 @@ $ sudo systemctl start hddtemp
 
 Após isso vá no **menu principal**, selecione **config** e navegue até a seção **Storages Temperatures**. Então é só você 
 selecionar o dispositivo que a temperatura será mostrada no **painel disks** do [GonhaNG](https://github.com/fredcox/gonhang)
+
+
+Pronto, espero ter ajudado. 
