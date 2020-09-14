@@ -36,15 +36,15 @@ são pessoas que não produzem nada, que tem apenas um **github** com uns reposi
 o verdadeiro **Richard Stallman Brasileiro**. Isso, meu caros, é de uma **pobreza intelectual escabrosa e generalizada**,
 um perfil anedótico. 
 
-Há muita gente assim, medíocre e imbecil, na comunidade **brasileira**, muito mais do que você imagina, e 
+Há muita gente assim, medíocre e pobre intelectualmente, na comunidade **brasileira**, muito mais do que você imagina, e 
 isto é digno de pena, confesso que esse fato me rende boas **risadas**. 
 
 Não estou querendo me gabar, longe de mim e odeio isso, mas meu primeiro contato com Linux foi em 
 **30 de Março de 1995**, eu instalei o **Slackware 2.2** no meu desktop. Isso significa que, hoje, **25 anos depois**,
 eu continuo usando o meu sistema operacional preferido, Linux. Mesmo assim, de vez em quando sou 
-taxado de **"iniciante"** por em uma dessas comunidades medíocres e cheia de membros que se acham dotados de todo
+taxado de **"iniciante"** por em uma dessas comunidades, onde há gente que se acha dotado de todo
 conhecimento possível e necessário em Software Livre. Isso é de prache e normal, a maioria dos membros
- da comunidade brasileira é gente deletéria que age dessa forma. A esses, eu desejo que se ferrem e amarguem 
+ da comunidade brasileira é gente que segue essa lógica binária. A esses, eu desejo que amarguem 
  na sua ignorância. 
 
 É isso. 
