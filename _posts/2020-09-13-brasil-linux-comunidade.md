@@ -26,7 +26,7 @@ tem até desenvolvedor do **Kernel**. A essas pessoas que produzem, participam e
 todo o meu respeito.  
 
 
->Atenção: as críticas que farei a partir de agora não se aplicam a todos os usuários comouns Linux no brasil. 
+>Atenção: as críticas que farei a partir de agora não se aplicam aos usuários comuns de Linux no brasil. 
 >Faço minhas críticas severas aqueles que, não se sabe ao certo porquê, se acham os "paladinos da sabedoria do
 >sofware livre". 
 
