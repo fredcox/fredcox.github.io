@@ -18,7 +18,7 @@ image: /assets/banners/banner-brasillinux-black.png
 ---
 
 
-![banner-plex](/assets/banners/banner-brasillinux.png)
+![banner-brasil-comunidade-linux](/assets/banners/banner-brasillinux.png)
 
 No Brasil, há muita gente boa na **comunidade de software livre**. Tem gente que realmente **produz**, seja mantendo
 repositórios de pacotes, elaborando vídeos com tutoriais de excelente qualidade, escrevendo artigos e 
