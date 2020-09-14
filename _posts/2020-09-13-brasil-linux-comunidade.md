@@ -36,7 +36,7 @@ são pessoas com o ego inflado lá em plutão, que não produzem nada, que tem a
 o verdadeiro **Richard Stallman Brasileiro**. Isso, meu caros, é de uma **pobreza intelectual escabrosa e generalizada**,
 um perfil anedótico. 
 
-Há muita gente assim, medíocre e pobre intelectualmente, na comunidade **brasileira**, muito mais do que você imagina, e 
+Há muita gente assim, medíocre, na comunidade **brasileira**, muito mais do que você imagina, e 
 isto é digno de pena, confesso que esse fato me rende boas **risadas**. 
 
 Não estou querendo me gabar, longe de mim e odeio isso, mas meu primeiro contato com Linux foi em 
