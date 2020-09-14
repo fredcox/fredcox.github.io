@@ -31,7 +31,7 @@ todo o meu respeito.
 >sofware livre". 
 
 Entretanto quase predominantemente, há uma cultura de imbecilidade na comunidade brasileira. Geralmente e quase sempre 
-são pessoas que não produzem nada, que tem apenas um **github** com uns repositórios inacabados e capengas 
+são pessoas com o ego inflado lá em plutão, que não produzem nada, que tem apenas um **github** com uns repositórios inacabados e capengas 
 (as vezes nem isso tem), todavia e não se sabe ao certo os motivos, o sujeito se acha **"o sabidão do Linux"**, 
 o verdadeiro **Richard Stallman Brasileiro**. Isso, meu caros, é de uma **pobreza intelectual escabrosa e generalizada**,
 um perfil anedótico. 
