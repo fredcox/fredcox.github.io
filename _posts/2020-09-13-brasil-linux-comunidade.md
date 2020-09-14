@@ -26,8 +26,9 @@ tem até desenvolvedor do **Kernel**. A essas pessoas que produzem, participam e
 todo o meu respeito.  
 
 
->Atenção: as críticas que farei a partir de agora não se aplicam a todos os usuários Linux no brasil. Faço minhas críticas
->aqueles que, não se sabe ao certo, se acham os "paladinos da sabedoria". 
+>Atenção: as críticas que farei a partir de agora não se aplicam a todos os usuários comouns Linux no brasil. 
+>Faço minhas críticas severas aqueles que, não se sabe ao certo porquê, se acham os "paladinos da sabedoria do
+>sofware livre". 
 
 Entretanto quase predominantemente, há uma cultura de imbecilidade na comunidade brasileira. Geralmente e quase sempre 
 são pessoas que não produzem nada, que tem apenas um **github** com uns repositórios inacabados e capengas 
