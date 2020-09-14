@@ -34,10 +34,8 @@ Entretanto quase predominantemente, há uma cultura de imbecilidade na comunidad
 são pessoas com o ego inflado lá em plutão, que não produzem nada, que tem apenas um **github** com uns repositórios inacabados e capengas 
 (as vezes nem isso tem), todavia e não se sabe ao certo os motivos, o sujeito se acha **"o sabidão do Linux"**, 
 o verdadeiro **Richard Stallman Brasileiro**. Isso, meu caros, é de uma **pobreza intelectual escabrosa e generalizada**,
-um perfil anedótico. 
-
-Há muita gente assim, medíocre, na comunidade **brasileira**, muito mais do que você imagina, e 
-isto é digno de pena, confesso que esse fato me rende boas **risadas**. 
+um perfil anedótico. Há muita gente assim, medíocre, na comunidade **brasileira**, muito mais do que você imagina, e isto é digno de pena, 
+confesso que esse fato me rende boas **risadas**. 
 
 Não estou querendo me gabar, longe de mim e odeio isso, mas meu primeiro contato com Linux foi em 
 **30 de Março de 1995**, eu instalei o **Slackware 2.2** no meu desktop. Isso significa que, hoje, **25 anos depois**,
