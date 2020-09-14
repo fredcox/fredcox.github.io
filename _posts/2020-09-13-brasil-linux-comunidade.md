@@ -25,6 +25,10 @@ repositórios de pacotes, elaborando vídeos com tutoriais de excelente qualidad
 tem até desenvolvedor do **Kernel**. A essas pessoas que produzem, participam e desenvolvem para a comunidade, 
 todo o meu respeito.  
 
+
+>Atenção: as críticas que farei a partir de agora não se aplicam a todos os usuários Linux no brasil. Faço minhas críticas
+>aqueles que, não se sabe ao certo, se acham os "paladinos da sabedoria". 
+
 Entretanto quase predominantemente, há uma cultura de imbecilidade na comunidade brasileira. Geralmente e quase sempre 
 são pessoas que não produzem nada, que tem apenas um **github** com uns repositórios inacabados e capengas 
 (as vezes nem isso tem), todavia e não se sabe ao certo os motivos, o sujeito se acha **"o sabidão do Linux"**, 
