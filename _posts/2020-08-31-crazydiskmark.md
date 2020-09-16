@@ -6,7 +6,7 @@ image: /assets/banners/banner-crazydiskmark-black.png
 
 ---
 
-![banner-plex](/assets/banners/banner-crazydiskmark.png)
+![crazydiskmark banner](/assets/banners/banner-crazydiskmark.png)
 
 
 Nesse artigo iremos analisar e instalar o [Crazy DiskMark](https://github.com/fredcox/crazydiskmark/), 
@@ -22,12 +22,6 @@ não haver um benchmark intuitivo, fácil, com interface gráfica semelhante ao 
 
 
 Enfim, não havia uma alternativa para Linux, então decidi desenvolvê-la.   
-
-# Atenção
-
-Este programa foi desenvolvido para utilização **somente em discos do estado sólido - SSD´s**. **Não** se deve utilizar
-o [Crazy DiskMark](https://github.com/fredcox/crazydiskmark/) em HD´s mecânicos.
-
 
 [Crazy DiskMark](https://github.com/fredcox/crazydiskmark/) está disponível para as seguintes distros:
 
